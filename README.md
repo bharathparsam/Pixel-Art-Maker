@@ -1,11 +1,10 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+- Pixel art maker is a simple web application which allows user to set grid height and grid width.
+- Upon setting grid height and width user can view a table created
+- User can also select color and fill the table.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+**Note** - This Project is a part of Udacity Front End Nanodegree.
 
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
+### Copyright
+>Udacity
